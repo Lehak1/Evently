@@ -8,7 +8,7 @@ function Footer() {
         <Link href="/">
         <Image src="/assets/images/logo.svg" alt="logo" height={38} width={128}/>
         </Link>
-<p>2024 Evently .All Rights Reserved</p>
+<p>2024 Evently. All Rights Reserved</p>
 </div>
     </footer>
   )
